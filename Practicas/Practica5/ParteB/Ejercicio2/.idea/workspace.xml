@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f8b7a4b3-39ff-4179-80a8-ea99f5a055e8" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../Practica3/ParteA/Ejercicio2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Practica3/ParteA/Ejercicio2/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Practica3/ParteA/Ejercicio2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Practica3/ParteA/Ejercicio2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Practica3/ParteA/Ejercicio2/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Practica3/ParteA/Ejercicio2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Practica3/ParteA/Ejercicio2/Ejercicio2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Practica3/ParteA/Ejercicio2/src/Abuelo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Practica3/ParteA/Ejercicio2/src/Hijo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Practica3/ParteA/Ejercicio2/src/Padre.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Practica3/ParteA/Ejercicio3/Ejercicio3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Practica4/Ejercicio2y4/Ejercicio2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Practica4/Ejercicio5/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Practica4/Ejercicio5/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Practica4/Ejercicio5/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Practica4/Ejercicio5/Ejercicio5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Practica4/Ejercicio5/src/A/CD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Practica4/Ejercicio5/src/A/Database.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Practica4/Ejercicio5/src/A/Textbook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Practica4/Ejercicio5/src/A/Video.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Practica4/Ejercicio5/src/B/CD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Practica4/Ejercicio5/src/B/Database.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Practica4/Ejercicio5/src/B/Item.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Practica4/Ejercicio5/src/B/MultiMediaItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Practica4/Ejercicio5/src/B/Textbook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Practica4/Ejercicio5/src/B/Video.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Practica4/Ejercicio5/src/Ejercicio5.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejercicio2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/unlp/info/reinoanimal/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/unlp/info/reinoanimal/Gato.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/unlp/info/reinoanimal/Perro.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 6
+}]]></component>
+  <component name="ProjectId" id="2X09DRlJWJHUfdp70o0keZDWZys" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="unlp.info.reinoanimal" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f8b7a4b3-39ff-4179-80a8-ea99f5a055e8" name="Changes" comment="" />
+      <created>1697755011564</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1697755011564</updated>
+      <workItem from="1697755012599" duration="537000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

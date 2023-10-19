@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Practica5/ParteA/Ejercicio1/Ejercicio1.iml" filepath="$PROJECT_DIR$/Practica5/ParteA/Ejercicio1/Ejercicio1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Practica3/ParteA/Ejercicio1/Ejercicio11.iml" filepath="$PROJECT_DIR$/Practica3/ParteA/Ejercicio1/Ejercicio11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Practica5/ParteA/Ejercicio2/Ejercicio2.iml" filepath="$PROJECT_DIR$/Practica5/ParteA/Ejercicio2/Ejercicio2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Practica5/ParteB/Ejercicio2/Ejercicio21.iml" filepath="$PROJECT_DIR$/Practica5/ParteB/Ejercicio2/Ejercicio21.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Practica3/ParteA/Ejercicio2/Ejercicio22.iml" filepath="$PROJECT_DIR$/Practica3/ParteA/Ejercicio2/Ejercicio22.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Practica4/Ejercicio2y4/Ejercicio2y4.iml" filepath="$PROJECT_DIR$/Practica4/Ejercicio2y4/Ejercicio2y4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Practica5/ParteB/Ejercicio3/Ejercicio3.iml" filepath="$PROJECT_DIR$/Practica5/ParteB/Ejercicio3/Ejercicio3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Practica3/ParteA/Ejercicio3/Ejercicio31.iml" filepath="$PROJECT_DIR$/Practica3/ParteA/Ejercicio3/Ejercicio31.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Practica5/ParteA/Ejercicio3/Ejercicio32.iml" filepath="$PROJECT_DIR$/Practica5/ParteA/Ejercicio3/Ejercicio32.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Practica4/Ejercicio5/Ejercicio5.iml" filepath="$PROJECT_DIR$/Practica4/Ejercicio5/Ejercicio5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Practica3/Herencia/Herencia.iml" filepath="$PROJECT_DIR$/Practica3/Herencia/Herencia.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Practicas.iml" filepath="$PROJECT_DIR$/.idea/Practicas.iml" />
+    </modules>
+  </component>
+</project>

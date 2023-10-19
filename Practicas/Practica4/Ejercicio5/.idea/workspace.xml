@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ec4a639d-84d1-409e-9844-73078d618267" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../Practica3/ParteA/Ejercicio2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Practica3/ParteA/Ejercicio2/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Practica3/ParteA/Ejercicio2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Practica3/ParteA/Ejercicio2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Practica3/ParteA/Ejercicio2/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Practica3/ParteA/Ejercicio2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Practica3/ParteA/Ejercicio2/Ejercicio2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Practica3/ParteA/Ejercicio2/src/Abuelo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Practica3/ParteA/Ejercicio2/src/Hijo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Practica3/ParteA/Ejercicio2/src/Padre.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Practica3/ParteA/Ejercicio3/Ejercicio3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ejercicio2y4/Ejercicio2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejercicio5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/A/CD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/A/Database.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/A/Textbook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/A/Video.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/B/CD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/B/Database.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/B/Item.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/B/MultiMediaItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/B/Textbook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/B/Video.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ejercicio5.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Practica5/ParteB/Ejercicio1/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Practica5/ParteB/Ejercicio1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Practica5/ParteB/Ejercicio1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Practica5/ParteB/Ejercicio1/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Practica5/ParteB/Ejercicio1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Practica5/ParteB/Ejercicio1/Ejercicio1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Practica5/ParteB/Ejercicio1/src/A/griego/Alpha.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Practica5/ParteB/Ejercicio1/src/A/griego/Gamma.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Practica5/ParteB/Ejercicio1/src/A/griego/GammaTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Practica5/ParteB/Ejercicio1/src/B/BetaTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Practica5/ParteB/Ejercicio1/src/B/griego/Alpha.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Practica5/ParteB/Ejercicio1/src/B/romano/Beta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Practica5/ParteB/Ejercicio1/src/C/DeltaTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Practica5/ParteB/Ejercicio1/src/C/griego/Alpha.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Practica5/ParteB/Ejercicio1/src/C/romano/Delta.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2WztHBeF5CWbTLtb9AnSuuf4c0l" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ec4a639d-84d1-409e-9844-73078d618267" name="Changes" comment="" />
+      <created>1697747147316</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1697747147316</updated>
+      <workItem from="1697747148248" duration="803000" />
+      <workItem from="1697749241785" duration="236000" />
+      <workItem from="1697750074139" duration="1851000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
